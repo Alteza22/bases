@@ -1,0 +1,44 @@
+body{background:rgb(233, 150, 152);
+   font-size : xx-large
+}
+#sm{font-size:smaller;
+text-indent: 21px;
+text-shadow: 0px 0px 5px red, 5px 5px RGBa(0, 0, 0, 0.5) ;}
+
+
+/*le font smaller sera plus petit que la talle 
+defini dans le balise prent*/
+
+#lar{font-size: larger;}
+/* la talle e la police ser plus grande que
+ celle defini par l'element parant */
+
+#xxs{ font-size: xx-small;
+    text-indent: 2%;
+    text-shadow: 1px 5px rgb(25, 243, 90);
+}
+#xs{ font-size: x-small;
+text-decoration: overline;
+text-decoration-color: blue;}
+#s{font-variant: small;
+text-decoration: underline;
+text-indent: 1em;
+text-shadow: 0px 2px 5px yellow ;}
+#m{font-size: medium;
+    text-decoration:underline wavy;}
+#xxl{font-size: xx-large;}
+#xl{font-size: x-large;}
+#l{font-size: large;}
+
+.div1{
+    color:aqua;
+}
+.moussa{
+    color:blueviolet ;
+}
+.moussa .p1{
+    color:red;
+}
+.div1 p{
+    color: gray;
+}

@@ -1,0 +1,83 @@
+#titre{color:rosybrown}
+.vert{color:green}
+#yellow{color:yellow
+}
+#rojo{color:red;
+      font-style:italic
+
+}
+body{background:rgb(176, 221, 107);
+      border: 2px solid rgb(231, 19, 19);
+      padding: 5em;
+}
+ul{background:rebeccapurple;
+ border: 3em;
+ padding: 0em;
+}
+
+
+#loba1{color:rgb(231, 19, 19)}
+#los {color:aqua;
+      padding: 5em;
+      border: 2px;
+}
+#los1{color:blue;
+      padding-left: 5px;
+      border: 1px solid
+  
+  }
+  #loba3{background:red;
+  border-color: rgb(200, 255, 0);}
+  .dd{font: 1em sans-serif;}
+/*balises div et span*/
+  div{
+      color:aqua;
+      background:rgb(64, 243, 9);
+  
+  color:blue;
+  padding: 1em;
+  border: 2px solid;
+  }
+  span{
+      color:rgb(186, 250, 12);
+      background-color:rgb(70, 136, 236);
+  }
+  /*element de tipe block et inline */
+  .inline{border: 1px solid;
+      padding: 1em
+}
+
+  .block {border: 1px solid;
+}
+/*les differentes elements short hand et ses formes e long hand*/
+#p11{
+      padding-left: 1px;
+      padding-top: 1px;
+      padding-right: 5px;
+      padding-bottom: 1px;
+      border: 1px solid;
+  }
+  #p12{
+      padding: 1px;
+      border-bottom: 1px solid rgb(240, 6, 150);
+      border-left: 1px solid;
+      border-width: 1px solid;
+      border-color: aqua;
+      border-right: 1px solid rgb(50, 74, 207);
+      border-radius: 1px solid;
+            border-top: 1px solid;}
+            /* fonts */
+       #p13{
+                  font-size: x-small, 2px;
+                  font-style: oblique;
+                  
+              }
+              /* les valeurs de fontsize*/
+              #xxs{ font-size: xx-small;}
+     #xs{ font-size: x-small;}
+#s{font-variant: small;}
+#m{font-size: medium;}
+#xxl{font-size: xx-large;}
+#xl{font-size: x-large;}
+#l{font-size: large;}
+#font{background-image: image-set();}
